@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @GermanMoran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in wireless optical systems, software development, cloud computing, data analysis, telecommunications systems.
+- 🌱 I’m currently learning new technologies dedicated to software development.
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ...
+- 😄 Hobbies: volleyball, Soccer, Cycling
+- 🛠️ Skills: Python, Java, C++, HTML, CSS, JavaScript, MATLAB, Arduino, LINUX, VirtualBox, SQL.
 - ⚡ Interests: Telecommunications Engineering (wireless optical communications systems), Satellite Communications,Radio frequency systems, Iot, Data Science, Software Development
 ,Research, Cloud & DevOps, Technology, Innovation.
 
