@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GermanMoran
 - 👀 I’m interested in wireless optical systems, software development, cloud computing, data analysis, telecommunications systems.
-- 🌱 I’m currently learning new technologies dedicated to software development.
+- 🌱 I’m currently learning new technologies dedicated to software development and Data Analysis
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ...
 - 😄 Hobbies: volleyball, Soccer, Cycling
